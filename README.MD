@@ -71,3 +71,10 @@ namespace MyApplication
 }
 
 ```
+
+# Tablas
+| Nombre | Apellidos | Documento |
+|--------| ----------| ---------|
+| Bernie | Pineda | pdf |
+| Tom | Sawyer | Libro |
+
