@@ -26,3 +26,10 @@ Underline 2
 2. Item de lista ordenada
 - Item de lista desordenada
 - Item de lista desordenada
+
+# Links
+[Esto es un link en markdown](http://www.google.com)
+
+# Imagenes
+![Logo de github](https://imageog.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
+
