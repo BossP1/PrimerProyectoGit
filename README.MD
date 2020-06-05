@@ -1,3 +1,5 @@
+
+Version actual 1.2.2
 # Cabeceras
 # Cabecera H1
 ## Cabecera h2
