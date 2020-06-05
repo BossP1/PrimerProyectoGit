@@ -83,3 +83,17 @@ namespace MyApplication
 Esto es un texto referente a una cita:
 > Lo voy a conseguir hay gente que cree que puedo y lo haré
 
+# Lineas divisoras
+Lorem ipsum dolor, sit amet consectetur dividido con guiones?
+
+---
+
+Lorem ipsum dolor, sit amet consectetur dividido con tres asteriscos?
+
+***
+
+# Saltos de linea
+
+Este es un parrafo.
+
+Segundo parrafo
